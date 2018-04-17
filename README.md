@@ -13,9 +13,9 @@ by running a bash script provided at the top of the repository,
 ``install_doc.sh``. It can also be browsed online at the
 CBRAIN service site:
 
-[CBRAIN API, Perl, plain text](https://portal.cbrain.mcgill.ca/doc/APIs/perl/CbrainPerlAPI.txt)
-[CBRAIN API, Perl, HTML](https://portal.cbrain.mcgill.ca/doc/APIs/perl/CbrainPerlAPI.html)
-[CBRAIN API, Ruby, HTML](https://portal.cbrain.mcgill.ca/doc/APIs/ruby/CbrainRubyAPI.html)
+* [CBRAIN API, Perl, plain text](https://portal.cbrain.mcgill.ca/doc/APIs/perl/CbrainPerlAPI.txt)
+* [CBRAIN API, Perl, HTML](https://portal.cbrain.mcgill.ca/doc/APIs/perl/CbrainPerlAPI.html)
+* [CBRAIN API, Ruby, HTML](https://portal.cbrain.mcgill.ca/doc/APIs/ruby/CbrainRubyAPI.html)
 
 ## Obsolescence Warning
 
@@ -23,7 +23,7 @@ These APIs are no longer maintained, and the CBRAIN platform has evolved since t
 
 The new CBRAIN API is being developed and documented here:
 
-[CBRAIN Swagger API description](https://portal.cbrain.mcgill.ca/swagger)
+* [CBRAIN Swagger API description](https://portal.cbrain.mcgill.ca/swagger)
 
 ## Credits
 

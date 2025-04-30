@@ -21,9 +21,12 @@ CBRAIN service site:
 
 These APIs are no longer maintained, and the CBRAIN platform has evolved since then, and as such might only work partially. They can still be used if one is willing to make adjustments.
 
-The new CBRAIN API is being developed and documented here:
+The new CBRAIN API is being developed and documented in these repos:
 
 * [CBRAIN Swagger API description](https://portal.cbrain.mcgill.ca/swagger)
+* [cbrain-python-client](https://github.com/aces/cbrain-python-client), a Python library generated from Swagger
+* [cbrain-client-gem](https://github.com/aces/cbrain-client-gem), a Ruby library generated from Swagger
+* [cbrain-php-client](https://github.com/aces/cbrain-php-client), a PHP client library generated from Swagger
 
 ## Credits
 
